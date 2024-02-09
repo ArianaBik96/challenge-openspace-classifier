@@ -1,7 +1,4 @@
 
-'''
-saves and load files
-'''
 list_of_colleagues=[]
 
 def load_file(filename):
