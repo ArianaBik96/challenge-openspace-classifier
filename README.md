@@ -23,7 +23,7 @@ openspace.py: Contains the Openspace class responsible for organizing colleagues
 main.py: Entry point of the program, loads data, initializes the Openspace, and displays the seating arrangement.
 Execution
 
-# To run the program:
+# To run the program
 
 1 Ensure Python is installed on your system.
 
