@@ -1,42 +1,42 @@
 Table 1:
-  Seat 1: Afaf
-  Seat 2: Andrea
-  Seat 3: Ariana
-  Seat 4: Alice
+  Seat 1: Viktor
+  Seat 2: Geraldine
+  Seat 3: Ivan 
+  Seat 4: Mahsa
 There are no empty seats
 
 Table 2:
-  Seat 1: Ivan 
+  Seat 1: Ariana
   Seat 2: Karel
-  Seat 3: Em
-  Seat 4: Caroline
+  Seat 3: Miguel
+  Seat 4: Alfiya
 There are no empty seats
 
 Table 3:
-  Seat 1: Alfiya
-  Seat 2: Fabienne
-  Seat 3: Mahsa
-  Seat 4: Nathalie
+  Seat 1: Daryoush
+  Seat 2: Andrea
+  Seat 3: Afaf
+  Seat 4: Caroline
 There are no empty seats
 
 Table 4:
-  Seat 1: Nasrin
-  Seat 2: Viktor
-  Seat 3: Gerrit
-  Seat 4: Daryoush
-There are no empty seats
-
-Table 5:
-  Seat 1: Miguel
-  Seat 2: Alexander
-  Seat 3: Niels
+  Seat 1: Em
+  Seat 2: Danil
+  Seat 3: Yanina
   Seat 4: Sweta
 There are no empty seats
 
+Table 5:
+  Seat 1: Fabienne
+  Seat 2: Alice
+  Seat 3: Gerrit
+  Seat 4: Jens
+There are no empty seats
+
 Table 6:
-  Seat 1: Danil
-  Seat 2: Jens
-  Seat 3: Yanina
-  Seat 4: Geraldine
+  Seat 1: Alexander
+  Seat 2: Nathalie
+  Seat 3: Nasrin
+  Seat 4: Niels
 There are no empty seats
 
